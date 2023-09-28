@@ -1,4 +1,11 @@
 ### Hi there 👋
+**This is Taomihog :hedgehog:**  
+
+-:pig_nose: I am currently learning C/C++.  
+-:loop: I am currently learning knot theory.  
+-:dna: I just finished a [program](https://github.com/Taomihog/unzipDNA) to calculate DNA mechanical unzipping curve.  
+-:snake: I am working on a Snake game now (C/C++).  
+-:mailbox_with_mail: How to reach me: taomihog@gmail.com
 
 <!--
 **Taomihog/Taomihog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
