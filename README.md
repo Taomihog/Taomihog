@@ -1,11 +1,11 @@
 ### Hi there 👋
 **This is Taomihog :hedgehog:**  
 
--:pig_nose: I am currently learning C/C++.  
--:loop: I am currently learning knot theory.  
--:dna: I just finished a [program](https://github.com/Taomihog/unzipDNA) to calculate DNA mechanical unzipping curve.  
--:snake: I am working on a Snake game now (C/C++).  
--:mailbox_with_mail: How to reach me: taomihog@gmail.com
+- :pig_nose: I am currently learning C/C++.  
+- :knot: I am currently learning knot theory.  
+- :dna: I just finished a [program](https://github.com/Taomihog/unzipDNA) to calculate the force to separate the 2 strands of DNA (DNA mechanical unzipping curve).  
+- :yarn: I am working on a program to calculate the torque to braid 2 DNA molecules (C/C++).  
+- :mailbox_with_mail: How to reach me: taomihog@gmail.com
 
 <!--
 **Taomihog/Taomihog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
