@@ -1,9 +1,10 @@
 ### Hi there 👋
 **This is Taomihog :hedgehog:**  
 
-- :pig_nose: I am currently learning C/C++.  
+- :pig_nose: I am currently learning C/C++/CUDA.  
 - :knot: I am currently learning knot theory.  
-- :dna: I just finished a [program](https://github.com/Taomihog/unzipDNA) to calculate the force to separate the 2 strands of DNA (DNA mechanical unzipping curve).  
+- :dna: I just finished a [program](https://github.com/Taomihog/unzipDNA) to predict DNA mechanical unzipping curve (the force to separate the 2 strands of DNA).
+- :dna: I am working on a GPU version now.
 - :yarn: I am working on a program to calculate the torque to braid 2 DNA molecules (C/C++).  
 - :mailbox_with_mail: How to reach me: taomihog@gmail.com
 
