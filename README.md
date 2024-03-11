@@ -3,8 +3,10 @@
 
 - :pig_nose: I am currently learning C/C++/CUDA.  
 - :knot: I am currently learning knot theory.  
-- :dna: I just finished a [program](https://github.com/Taomihog/unzipDNA) to predict DNA mechanical unzipping curve (the force to separate the 2 strands of DNA).
-- :dna: I am working on a GPU version now.
+- :dna: I just finished 2 programs ( a CPU version and a GPU version) to predict DNA mechanical unzipping curve (the force to separate the 2 strands of DNA).
+- :dna: In [CPU version](https://github.com/Taomihog/unzipDNA_CPU), I meta-programmed constexpr arrays and multi-threaded the calculation on my 20-core CPU and speed up the calculation by >1000 times. However, to calculate a whole force-extension curve to unzip a DNA of ~4 kb still takes 0.2s. I want a even higher speed.
+- :dna: Then I created a [GPU version](https://github.com/Taomihog/unzipDNA_GPU) to use my "GeForce RTX 3070 Laptop", and increaded the speed by another factor of 10. Now the program can finish the whole genome of *E.Coli* in a minute.
+- ::
 - :yarn: I am working on a program to calculate the torque to braid 2 DNA molecules (C/C++).  
 - :mailbox_with_mail: How to reach me: taomihog@gmail.com
 
