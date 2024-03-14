@@ -1,13 +1,12 @@
 ### Hi there 👋
 **This is Taomihog :hedgehog:**  
 
-- :pig_nose: I am currently learning C/C++/CUDA.  
-- :knot: I am currently learning knot theory.  
-- :dna: I just finished 2 programs ( a CPU version and a GPU version) to predict DNA mechanical unzipping curve (the force to separate the 2 strands of DNA).
-- :dna: In [CPU version](https://github.com/Taomihog/unzipDNA_CPU), I meta-programmed constexpr arrays and multi-threaded the calculation on my 20-core CPU and speed up the calculation by >1000 times. However, to calculate a whole force-extension curve to unzip a DNA of ~4 kb still takes 0.2s. I want a even higher speed.
-- :dna: Then I created a [GPU version](https://github.com/Taomihog/unzipDNA_GPU) to use my "GeForce RTX 3070 Laptop", and increaded the speed by another factor of 10. Now the program can finish the whole genome of *E.Coli* in a minute.
-- ::
-- :yarn: I am working on a program to calculate the torque to braid 2 DNA molecules (C/C++).  
+- :pig_nose: I am currently learning C/C++ and CUDA.  
+- :dna: I just finished 2 programs ( a [CPU version](https://github.com/Taomihog/unzipDNA_CPU) and a [GPU version](https://github.com/Taomihog/unzipDNA_GPU)) to predict DNA mechanical unzipping curves (the force to separate the 2 strands of DNA).  
+  1. [CPU version](https://github.com/Taomihog/unzipDNA_CPU): meta-programming + multi-threading. It is **>1000x faster** than the sequential program people usually use.   
+  2. [GPU version](https://github.com/Taomihog/unzipDNA_GPU): CUDA + my "GeForce RTX 3070 Laptop", **10x faster than my CPU version**. Can finish the whole genome of *E.Coli* in a minute.  
+- :yarn: I am working on a **trace alignment program** for unzipping data clustering. The ultimate goal is to create a highly-parallel single-molecule unzipping platform to identify the whole transcriptome (in forms of RNA:DNA hybrid) from their unzipping force-extension curves.
+- :knot: I am currently learning knot theory and trying to create a faster Monte Carlo simulation to calculate the torque to braid 2 DNA molecules (C/C++).  
 - :mailbox_with_mail: How to reach me: taomihog@gmail.com
 
 <!--
