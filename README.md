@@ -1,7 +1,7 @@
 ### Hi there 👋
 **This is Taomihog :hedgehog:**  
 
-- :monkey_face: I am a programmer who uses C/C++ a lot and teaches myself CUDA now.  
+- :monkey_face: I am a programmer who uses C/C++ a lot and am teaching myself CUDA now.  
 - :dna: I just finished 2 programs ( a [CPU version](https://github.com/Taomihog/unzipDNA_CPU) and a [GPU version](https://github.com/Taomihog/unzipDNA_GPU)) to predict DNA mechanical unzipping curves (the force to separate the 2 strands of DNA).  
   1. [CPU version](https://github.com/Taomihog/unzipDNA_CPU): meta-programming + multi-threading. It is **>1000x faster** than the sequential program people usually use.   
   2. [GPU version](https://github.com/Taomihog/unzipDNA_GPU): CUDA + my "GeForce RTX 3070 Laptop", **10x faster than my CPU version**. Can finish the whole genome of *E.Coli* in a minute.  
