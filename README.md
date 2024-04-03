@@ -1,12 +1,13 @@
 ### Hi there 👋
 **This is Taomihog :hedgehog:**  
 
-- :monkey_face: I am a programmer who uses C/C++ a lot and am teaching myself CUDA now.  
+- :monkey_face: I am a programmer who uses C/C++ a lot for instrument control and numerical analysis.  
+- :notebook_with_decorative_cover: I am teaching myself CUDA now.  
 - :dna: I just finished 2 programs ( a [CPU version](https://github.com/Taomihog/unzipDNA_CPU) and a [GPU version](https://github.com/Taomihog/unzipDNA_GPU)) to predict DNA mechanical unzipping curves (the force to separate the 2 strands of DNA).  
-  1. [CPU version](https://github.com/Taomihog/unzipDNA_CPU): meta-programming + multi-threading. It is **>1000x faster** than the sequential program people usually use.   
-  2. [GPU version](https://github.com/Taomihog/unzipDNA_GPU): CUDA + my "GeForce RTX 3070 Laptop", **10x faster than my CPU version**. Can finish the whole genome of *E.Coli* in a minute.  
-- :yarn: I am working on a **trace alignment program** for unzipping data clustering. The ultimate goal is to create a highly-parallel single-molecule unzipping platform to identify the whole transcriptome (in forms of RNA:DNA hybrid) from unzipping force-extension curves.
-- :knot: I am currently learning knot theory and trying to create a faster Monte Carlo simulation to calculate the torque to braid 2 DNA molecules (C/C++).  
+  1. [CPU version](https://github.com/Taomihog/unzipDNA_CPU): A version that doesn't require GPU. I managed to move the computation overhead to compile time. My program is **1000x faster** than programs people usually use.   
+  2. [GPU version](https://github.com/Taomihog/unzipDNA_GPU): CUDA and my "GeForce RTX 3070 Laptop", **10x faster than my CPU version**. Can finish the whole genome of *E.Coli* in a minute.
+- :yarn: I just finished a [**trace alignment program**](https://github.com/Taomihog/trace_alignment_by_correlation) for very fast unzipping data analysis. The ultimate goal is to create a high-throughput single-molecule unzipping platform for transcriptome analysis.
+- :knot: I am currently learning knot theory to see if there is any knot invariant that is easier to compute than the Alexandra polynomial. I hope it can speed up the current Monte Carlo simulation to calculate the torque to braid 2 DNA molecules.  
 - :mailbox_with_mail: How to reach me: taomihog@gmail.com
 
 <!--
